@@ -1,0 +1,271 @@
+#text {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+#similar-artists {
+	width: 30%;
+	margin-top: 20vh;
+}
+
+#logo {
+	display: flex;
+	font-size: 5rem;
+}
+#logo i {
+	color: lightgreen;
+	
+
+}
+#ninja {
+	margin: 0;
+}
+#studio {
+	margin: 0;
+	font-weight: bold;
+}
+#name {
+	line-height: 0.9;
+	font-size: 3rem;
+}
+#header {
+	display: flex;
+	align-items: center;
+	background-color: indigo;
+	position: fixed;
+	top: 0;
+	width: 100vw;
+}
+#fav {
+	font-size: 1.2vw;
+	font-family: 'Open Sans Condensed', sans-serif;
+	margin-left: 15vw;
+	
+}
+#search {
+	margin-left: 15vw;
+}
+#bell {
+	margin-left: 10vw;
+}
+#profile img {
+	height: 10vh;
+
+	width: 10vh;
+	border-radius: 50%;
+	margin-left: 5vw;
+}
+
+
+#info img {
+	height: 70vh;
+	width: 30vw;
+
+
+}
+#info {
+	margin-top: 20vh;
+	background-color: indigo;
+	display: flex;
+	align-items: center;
+	width: 70%;
+	
+	height: 80vh;
+}
+#info p {
+	width: fit-content;
+	padding: 0;
+	margin: 0;
+}
+#button {
+	margin-right: auto;
+	width: fit-content;
+	width:10vw;
+	background: linear-gradient(45deg, yellow, red);
+}
+
+#about {
+	width: 50%;
+	margin-left: 2rem;
+	font-color: white;
+}
+
+
+body {
+	background-color: indigo;
+	display: flex;
+}
+#follow {
+	float: right;
+	color: white;
+}
+#button-container {
+	width: 30%;
+	margin-top: 2rem;
+	width: 60%;
+}
+
+
+#search input {
+	  background: linear-gradient(45deg, indigo, darkblue);
+}
+
+
+
+
+#about-similar-artists {
+	display: flex;
+	align-items: center;
+	margin-top: 20px;
+	padding: 20px;
+}
+
+#about-similar-artists div p {
+	margin: 0;
+}
+
+
+
+#about-similar-artists img {
+	height: 100px;
+	width: 150px;
+
+}
+#ellipses {
+	margin-left: auto;
+	position: relative;
+    top: -38px;
+    left: 30px;
+}
+
+
+#music {
+	background-color: grey;
+	font-weight: bold;
+	margin-top: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
